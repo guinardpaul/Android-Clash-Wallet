@@ -1,2 +1,2 @@
 # Android-Clash-Wallet
-Android Clash Wallet for Clash Royal Game
+Wallet for Clash Royal Game to manage decks, create and find new decks
